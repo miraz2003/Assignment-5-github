@@ -223,3 +223,30 @@ font-weight: 800;
   border-bottom: 1px solid #ddd;
   font-size: 14px;
 }
+
+
+
+
+
+
+
+/* Responsive */
+@media (max-width: 768px) {
+  .main-section {
+    flex-direction: column;
+  }
+}
+
+
+.h6{
+    color: #5C5C5C;
+}
+
+.category{
+    color: #5C5C5C;
+}
+
+.clr{
+    color: #5C5C5C;
+
+}
