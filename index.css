@@ -4,3 +4,72 @@
   height: auto; 
 }
 
+.text{
+    color: #006747;
+font-weight: 800;    
+}
+
+
+
+.clr-btn{
+ /* display: inline-flex; */
+  align-items: center;
+  justify-content: center;
+  padding: 5px 12px;       
+  background-color: #00A63E; 
+  color: #fff;             
+  border-radius: 20px;     
+  font-weight: bold;       
+  margin-left: 10px; 
+    
+}
+
+
+
+.history-header h3 i {
+  margin-right: 8px; 
+}
+
+
+
+
+
+#heartCount img,
+#coinCount img,
+#copyCount img {
+  width: 18px;   
+  height: 18px;  
+  vertical-align: middle; 
+}
+
+#heartCount, 
+#coinCount, 
+#copyCount {
+  display: inline-flex;        
+  align-items: center;
+  gap: 5px;                   
+  background-color: rgba(65, 255, 107, 0.1); 
+  padding: 5px 10px;          
+  border-radius: 20px;        
+  margin-left: 10px;            
+}
+#heartCount img,
+#coinCount img,
+#copyCount img {
+  width: 16px;   
+  height: 16px;
+}
+
+
+
+#copyCount {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5px 12px;       
+  background-color: #00A63E; 
+  color: #fff;             
+  border-radius: 20px;     
+  font-weight: bold;       
+  margin-left: 10px; 
+}
