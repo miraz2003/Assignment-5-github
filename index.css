@@ -10,7 +10,6 @@ font-weight: 800;
 }
 
 
-
 .clr-btn{
  /* display: inline-flex; */
   align-items: center;
@@ -76,7 +75,6 @@ font-weight: 800;
 
 
 
-
 /* first part */
 
 
@@ -95,12 +93,6 @@ font-weight: 800;
      background-color: #DFEFFF;
 
 }
-
-
-
-
-
-
 
 
 * {
@@ -224,12 +216,6 @@ font-weight: 800;
   font-size: 14px;
 }
 
-
-
-
-
-
-
 /* Responsive */
 @media (max-width: 768px) {
   .main-section {
@@ -253,11 +239,6 @@ font-weight: 800;
 
 
 
-
-
-
-
-
 .card-header {
   display: flex;
   align-items: center;
@@ -266,6 +247,6 @@ font-weight: 800;
 
 .card-header i {
   font-size: 18px;
-  color: #5C5C5C; /* red heart */
+  color: #5C5C5C; 
   cursor: pointer;
 }
